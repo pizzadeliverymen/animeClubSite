@@ -1,0 +1,29 @@
+.highlight
+{
+    background-color: #FFFF69;
+    color: #ff69b4;
+    font-weight: bold;
+}
+
+.code {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    margin: 5px;
+}
+.code>* {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    margin: 5px;
+}
+
+body {
+    background-color: #ff69b4;
+    color: #6969FF;
+    font-family: sans-serif;
+    width: 50vw;
+    margin: auto;
+    object-position: center;
+    align-self: center;
+}
